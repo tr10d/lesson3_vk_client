@@ -40,6 +40,7 @@
 		84D1DEC221AE8CFD006FC20E /* VkComment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D1DEC121AE8CFD006FC20E /* VkComment.swift */; };
 		84D1DEC521AE926B006FC20E /* CommentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D1DEC421AE926B006FC20E /* CommentTableViewCell.swift */; };
 		84EC564A21A2A2DB00C8542C /* VkFeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EC564921A2A2DA00C8542C /* VkFeed.swift */; };
+		857D5E78266252C300820636 /* AlamofireProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 857D5E77266252C300820636 /* AlamofireProxy.swift */; };
 		AA3D1EB121B25109000ED1C1 /* FirebaseService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D1EB021B25109000ED1C1 /* FirebaseService.swift */; };
 		AA5766C42160A5AD0029F786 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5766C32160A5AD0029F786 /* AppDelegate.swift */; };
 		AA5766C92160A5AD0029F786 /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA5766C72160A5AD0029F786 /* Login.storyboard */; };
@@ -95,6 +96,7 @@
 		84D1DEC121AE8CFD006FC20E /* VkComment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VkComment.swift; sourceTree = "<group>"; };
 		84D1DEC421AE926B006FC20E /* CommentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentTableViewCell.swift; sourceTree = "<group>"; };
 		84EC564921A2A2DA00C8542C /* VkFeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VkFeed.swift; sourceTree = "<group>"; };
+		857D5E77266252C300820636 /* AlamofireProxy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlamofireProxy.swift; sourceTree = "<group>"; };
 		AA3D1EB021B25109000ED1C1 /* FirebaseService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseService.swift; sourceTree = "<group>"; };
 		AA5766C02160A5AD0029F786 /* homeWork_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homeWork_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA5766C32160A5AD0029F786 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -232,6 +234,7 @@
 				8442ABAA2192EC0D003DDA6A /* VkResponseParser.swift */,
 				8442ABAF21957D2D003DDA6A /* RealmWorker.swift */,
 				AA3D1EB021B25109000ED1C1 /* FirebaseService.swift */,
+				857D5E77266252C300820636 /* AlamofireProxy.swift */,
 			);
 			path = service;
 			sourceTree = "<group>";
@@ -593,6 +596,7 @@
 				AA5766E12160AC5B0029F786 /* FriendsViewController.swift in Sources */,
 				AA5766E62160AD8C0029F786 /* Friend.swift in Sources */,
 				84D1DEC521AE926B006FC20E /* CommentTableViewCell.swift in Sources */,
+				857D5E78266252C300820636 /* AlamofireProxy.swift in Sources */,
 				84D1DEBE21AE745D006FC20E /* NewsInfoTableViewCell.swift in Sources */,
 				84105FB3217F173D00EEF673 /* VKApiViewController.swift in Sources */,
 				844ACE372186D98900565895 /* VkGroup.swift in Sources */,
